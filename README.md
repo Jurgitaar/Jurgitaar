@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jurgitaar
+- 👋 Hi, I’m Jurgen
 - 👀 I’m interested in learning to code.
 - 🌱 I’m currently learning c#, sql server.
 - 💞️ I’m looking to collaborate on webapps, datastructures.
